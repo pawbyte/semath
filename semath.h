@@ -1,7 +1,7 @@
 /*
 semath.h
 This file is part of:
-Simple Easy Math Library
+Short Easy Math Library
 https://www.pawbyte.com/opensource
 Copyright (c) 2014-2020 Nathan Hurde, Chase Lee.
 
