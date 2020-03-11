@@ -39,6 +39,10 @@ SOFTWARE.
 
 namespace semath
 {
+    const int version_major = 1;
+    const int version_minor = 2;
+    const int version_patch_level = 0;
+
     const float math_pi = 3.141592653589793;
     const float math_to_radians = 180.f/math_pi;
     const float math_degrees_multiplier = 180.f/-math_pi;
